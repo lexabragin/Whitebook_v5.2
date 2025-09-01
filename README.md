@@ -11,3 +11,8 @@
 - `calc/` — расчёты и симуляции
 - `patent/` — патентные заявки, формулы
 - `appendix/` — таблицы, приложения, доп. материалы
+
+
+## Appendix
+
+- [GUIDE_PCB_SRF_ESR.md](appendix/GUIDE_PCB_SRF_ESR.md) — мини-гайд по SRF/ESR vs pitch и via-сетка
